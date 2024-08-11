@@ -1,8 +1,8 @@
-# Promptopia
+# PromptAI
 
 Link: (https://promptopia-app-nu.vercel.app/)
 
-Promptopia is an open-source AI prompting tool designed to cater to the modern world's creative needs. It provides users with a platform to discover, create, and share creative prompts that can spark inspiration and fuel their artistic endeavors. Whether you're a writer, artist, musician, or anyone seeking creative ideas, Promptopia is the place to be!
+PromptAI is an open-source AI prompting tool designed to cater to the modern world's creative needs. It provides users with a platform to discover, create, and share creative prompts that can spark inspiration and fuel their artistic endeavors. Whether you're a writer, artist, musician, or anyone seeking creative ideas, Promptopia is the place to be!
 
 ## Features
 
@@ -14,7 +14,7 @@ Promptopia is an open-source AI prompting tool designed to cater to the modern w
 
 ## Tech Stack
 
-Promptopia is built with the following technologies:
+PromptAI is built with the following technologies:
 
 - [Next.js](https://nextjs.org/): A popular React framework for building efficient and scalable web applications.
 
@@ -22,7 +22,7 @@ Promptopia is built with the following technologies:
 
 ## Getting Started
 
-To run Promptopia locally on your machine, follow these instructions:
+To run PromptAI locally on your machine, follow these instructions:
 
 1. **Clone the repository**:
 
@@ -49,11 +49,11 @@ To run Promptopia locally on your machine, follow these instructions:
 
 4. **Open your browser**:
 
-   Visit `http://localhost:3000` to access Promptopia.
+   Visit `http://localhost:3000` to access PromptAI.
 
 ## Contributing
 
-We welcome contributions to make Promptopia even better! To contribute:
+We welcome contributions to make PromptAI even better! To contribute:
 
 1. Fork the repository.
 
